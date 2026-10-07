@@ -1,58 +1,143 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                 PATO DE GOD AKIRA — README                 ║
+║                                                              ║
+║  Elias Manoel dos Santos                                    ║
+║  Code Sorcerer • Full Stack Adventurer • Game Master        ║
+║                                                              ║
+║  HOLLOW KNIGHT / HALLOWNEST EDITION                         ║
+╚══════════════════════════════════════════════════════════════╝
+
+🔗 PERSONALIZAÇÃO:
+- Substitua os links marcados com "SEU_LINK"
+- Não remova os comentários de personalização até preencher os links
+- Os atributos são apenas elementos visuais
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:17112b,100:3b1d4f&height=220&section=header&text=Elias%20Manoel%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20Sorcerer%20%7C%20Full%20Stack%20Adventurer%20%7C%20Game%20Master&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,35:101522,70:25233d,100:08080d&height=230&section=header&text=ELIAS%20MANOEL%20DOS%20SANTOS&fontSize=34&fontColor=E8E8F0&animation=fadeIn&fontAlignY=38&desc=CODE%20SORCERER%20%7C%20FULL%20STACK%20ADVENTURER%20%7C%20GAME%20MASTER&descAlignY=61&descSize=14"/>
 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Code+Sorcerer;Game+Master+%26+Worldbuilder;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFSP;Building+systems%2C+projects+and+worlds..." alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B8B8D8&center=true&vCenter=true&width=700&lines=Welcome+to+my+little+corner+of+Hallownest;Full+Stack+Developer;Code+Sorcerer;Game+Master+%26+Worldbuilder;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFSP;Building+systems%2C+experiences+and+worlds..." alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CLASS-CODE%20SORCERER-6f42c1?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/GUILD-IFSP-9B59B6?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LEVEL-LEARNING-BA68C8?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-6E6E8F?style=for-the-badge&labelColor=08090D"/>
+<img src="https://img.shields.io/badge/CLASS-CODE%20SORCERER-665C88?style=for-the-badge&labelColor=08090D"/>
+<img src="https://img.shields.io/badge/GUILD-IFSP-536B72?style=for-the-badge&labelColor=08090D"/>
+<img src="https://img.shields.io/badge/QUEST-IN%20PROGRESS-8B6F8F?style=for-the-badge&labelColor=08090D"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# ⚔️ CHARACTER SHEET
+<div align="center">
 
-> *"Every project is another quest. Every bug is another boss fight."*
+### ──────────────── ❖ ────────────────
+
+# 🕯️ WELCOME, TRAVELER
+
+### *A small developer wandering through a ruined kingdom.*
+
+### ──────────────── ❖ ────────────────
+
+</div>
+
+<br>
+
+> *"In the darkest places, even a small light can become a guide."*
+
+Meu nome é **Elias Manoel dos Santos**.
+
+Sou estudante de **Técnico em Informática Integrado ao Ensino Médio no IFSP Câmpus Campinas**, desenvolvedor em formação, criador de sistemas e apaixonado por RPG, worldbuilding e experiências interativas.
+
+Gosto de transformar ideias em coisas que podem ser exploradas:
+
+**sistemas → interfaces → histórias → mundos.**
+
+<div align="center">
+
+`CODE`   ◆   `CREATE`   ◆   `EXPERIMENT`   ◆   `LEARN`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101522,50:171A29,100:0A0C12&height=100&section=header&text=DIRTMOUTH&fontSize=28&fontColor=D6D3DF&animation=fadeIn&fontAlignY=55"/>
+
+### 🏚️ AREA DISCOVERED
+
+## D I R T M O U T H
+
+*The journey begins here.*
+
+</div>
+
+---
+
+# 🧙 CHARACTER SHEET
 
 <table>
 <tr>
-<td width="50%">
+<td width="52%" valign="top">
 
-### 🧙‍♂️ Identity
+## 👤 Identity
 
-**Name:** Elias Manoel dos Santos
+**Name**
 
-**Class:** Code Sorcerer / Full Stack Adventurer
+> Elias Manoel dos Santos
 
-**Guild:** IFSP — Câmpus Campinas
+**Class**
 
-**Formation:** Técnico em Informática Integrado ao Ensino Médio
+> Code Sorcerer / Full Stack Adventurer
 
-**Main Role:** Developer & Creator
+**Guild**
+
+> IFSP — Câmpus Campinas
+
+**Formation**
+
+> Técnico em Informática Integrado ao Ensino Médio
+
+**Role**
+
+> Developer · Creator · Game Master
 
 </td>
 
-<td width="50%">
+<td width="48%" valign="top">
 
-### 🎯 Current Quest
+## 🎯 Current Quest
 
-🎓 Ciência da Informação — Unicamp
+🎓 **Unicamp**
 
-💻 Evolução como Full Stack Developer
+Preparação para o vestibular com foco em **Ciência da Informação**.
 
-🧪 Projetos acadêmicos e pessoais
+<br>
 
-🎲 RPG, Worldbuilding & Game Mastery
+💻 **Development**
 
-🌐 Desenvolvimento de sistemas web
+Evoluir como desenvolvedor Full Stack.
 
-🧠 Exploração de novas tecnologias
+<br>
+
+🎲 **Worldbuilding**
+
+Criar campanhas, universos, sistemas e experiências de RPG.
+
+<br>
+
+🧪 **Projects**
+
+Continuar construindo projetos acadêmicos, pessoais e experimentais.
 
 </td>
 </tr>
@@ -60,84 +145,36 @@
 
 ---
 
-# 🧬 ATTRIBUTES
+# 📜 CHARACTER ATTRIBUTES
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                    CHARACTER ATTRIBUTES                 ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  💻 Programming        ████████████████░░░░   80%       ║
-║  🌐 Web Development    ███████████████░░░░░   75%       ║
-║  🎨 Creativity         ██████████████████░░   90%       ║
-║  🧠 Problem Solving   ████████████████░░░░   80%       ║
-║  🧪 Experimentation    ██████████████████░░   90%       ║
-║  🎲 Game Mastery       ██████████████████░░   90%       ║
-║  🗺️ Worldbuilding      ██████████████████░░   90%       ║
-║  📚 Learning           ████████████████████   100%      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                     CHARACTER ATTRIBUTES                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  💻 PROGRAMMING          ████████████████░░░░    80          ║
+║  🌐 WEB DEVELOPMENT      ███████████████░░░░░    75          ║
+║  🎨 CREATIVITY           ██████████████████░░    90          ║
+║  🧠 PROBLEM SOLVING      ████████████████░░░░    80          ║
+║  🧪 EXPERIMENTATION      ██████████████████░░    90          ║
+║  🎲 GAME MASTERY         ██████████████████░░    90          ║
+║  🗺️ WORLDBUILDING        ██████████████████░░    90          ║
+║  📚 LEARNING             ████████████████████   100          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<sub>⚠️ Atributos são elementos visuais temáticos e não representam certificações ou avaliações profissionais.</sub>
+<sub>⚠️ Atributos são elementos temáticos e não representam avaliações ou certificações.</sub>
 
 ---
 
-# 🌳 SKILL TREE
-
-## ⚔️ Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,mysql&theme=dark" />
-</p>
-
-## 🪄 Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" />
-</p>
-
-**Também utilizo:**
-
-`CSS Modules` · `React Router` · `JavaScript`
-
-## 🧪 Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-`REST APIs` · `JSON` · `CRUD`
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-`SQL` · `MySQL`
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-`Cisco Packet Tracer` · `Canva` · `CapCut` · `Moodle`
-
-## 🤖 Creative Arsenal
-
-`Generative AI` · `UI/UX` · `Worldbuilding` · `Storytelling` · `RPG Design`
-
----
-
-# 🎒 TECH INVENTORY
+# 🎒 INVENTORY
 
 <table>
 <tr>
-<th>Item</th>
+<th>Artifact</th>
 <th>Type</th>
-<th>Role</th>
+<th>Purpose</th>
 </tr>
 
 <tr>
@@ -148,8 +185,8 @@
 
 <tr>
 <td>🛡️ React</td>
-<td>Framework</td>
-<td>Front-end Armor</td>
+<td>Front-end</td>
+<td>Combat Armor</td>
 </tr>
 
 <tr>
@@ -160,7 +197,7 @@
 
 <tr>
 <td>📜 Express</td>
-<td>Backend</td>
+<td>Back-end</td>
 <td>API Spellbook</td>
 </tr>
 
@@ -173,13 +210,13 @@
 <tr>
 <td>🧭 Git / GitHub</td>
 <td>Version Control</td>
-<td>Navigation System</td>
+<td>Navigation Tool</td>
 </tr>
 
 <tr>
 <td>🖥️ VS Code</td>
 <td>IDE</td>
-<td>Development Grimoire</td>
+<td>Development Bench</td>
 </tr>
 
 <tr>
@@ -192,149 +229,354 @@
 
 ---
 
-# 📚 GRIMOIRE OF PROJECTS
+<div align="center">
 
-> *A collection of systems, experiments, academic projects and worlds created throughout the journey.*
+```text
+                    .-.
+                   (o o)
+                  /  V  \
+                 /(  _  )\
+                   ^^ ^^
+                  
+              ─── BENCH DISCOVERED ───
+```
+
+*Resting here doesn't mean the journey is over.*
+
+</div>
 
 ---
 
-## 🏆 CAPVEST
+<div align="center">
 
-### 🎓 `CapVest — Vestibular Quest`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10251E,50:173A2D,100:0A1310&height=100&section=header&text=GREENPATH&fontSize=28&fontColor=B8D0B8&animation=fadeIn&fontAlignY=55"/>
 
-**Type:** Educational Platform · Full Stack · Gamification
+### 🌿 AREA DISCOVERED
+
+## G R E E N P A T H
+
+*Where ideas begin to grow.*
+
+</div>
+
+---
+
+# 🌳 SKILL TREE
+
+## ⚔️ LANGUAGES
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,mysql&theme=dark"/>
+
+</p>
+
+---
+
+## 🪄 FRONT-END
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark"/>
+
+</p>
+
+<div align="center">
+
+`JavaScript` · `CSS Modules` · `React Router` · `Vite`
+
+</div>
+
+---
+
+## 🧪 BACK-END
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+</p>
+
+<div align="center">
+
+`Node.js` · `Express` · `REST APIs` · `JSON` · `CRUD`
+
+</div>
+
+---
+
+## 🗄️ DATABASE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+<br><br>
+
+`SQL` · `MySQL`
+
+</div>
+
+---
+
+## 🛠️ TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+<br><br>
+
+`Git` · `GitHub` · `VS Code` · `Cisco Packet Tracer` · `Canva` · `CapCut` · `Moodle`
+
+</div>
+
+---
+
+## 🤖 CREATIVE ARSENAL
+
+<div align="center">
+
+`Generative AI` · `UI/UX` · `Worldbuilding` · `Storytelling` · `RPG Design`
+
+</div>
+
+---
+
+# 🌱 SKILL TREE — PROGRESSION
+
+```text
+                         ┌───────────────┐
+                         │   CREATIVE    │
+                         │   CORE        │
+                         └───────┬───────┘
+                                 │
+               ┌─────────────────┼─────────────────┐
+               │                 │                 │
+               ▼                 ▼                 ▼
+          ┌─────────┐       ┌─────────┐       ┌─────────┐
+          │ FRONT   │       │ BACK    │       │ WORLDS  │
+          │ END     │       │ END     │       │ & RPG   │
+          └────┬────┘       └────┬────┘       └────┬────┘
+               │                 │                 │
+          React / Vite      Node / Express    Lore / RPG
+               │                 │                 │
+               └─────────────────┼─────────────────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │  FULL STACK   │
+                         │  ADVENTURER   │
+                         └───────────────┘
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:162B3C,100:070B10&height=110&section=header&text=CITY%20OF%20TEARS&fontSize=27&fontColor=C7D9E8&animation=fadeIn&fontAlignY=55"/>
+
+### 💧 AREA DISCOVERED
+
+## C I T Y   O F   T E A R S
+
+*Projects built, systems tested, quests completed.*
+
+</div>
+
+---
+
+# 📚 GRIMOIRE OF PROJECTS
+
+> *A collection of systems, experiments and worlds built along the journey.*
+
+---
+
+# 🏆 CAPVEST
+
+<div align="center">
+
+## 🎓 `CAPVEST`
+
+### EDUCATIONAL PLATFORM · FULL STACK · GAMIFICATION
+
+</div>
 
 CapVest é uma plataforma educacional voltada para estudantes que estão se preparando para **vestibulares, ENEM e simulados**.
 
 A proposta combina preparação acadêmica com elementos de gamificação.
 
-### ⚔️ Features
+### ⚔️ FEATURES
 
-* 📚 Banco de questões
-* 📝 Simulados
-* ✍️ Redações
-* 📅 Cronograma de estudos
-* 🏆 Ranking
-* 👤 Perfil do estudante
-* 📊 Estatísticas
-* 🎮 Gamificação
-* 🐹 CapyAssistente
-* 🔐 Sistema de autenticação
+| System            | Description            |
+| ----------------- | ---------------------- |
+| 📚 Quest Bank     | Banco de questões      |
+| 📝 Simulations    | Simulados              |
+| ✍️ Writing        | Redações               |
+| 📅 Schedule       | Cronograma de estudos  |
+| 🏆 Ranking        | Competição e progresso |
+| 👤 Profile        | Perfil do estudante    |
+| 📊 Statistics     | Estatísticas           |
+| 🎮 Gamification   | Progressão             |
+| 🐹 CapyAssistente | Assistente virtual     |
+| 🔐 Authentication | Login e cadastro       |
 
-### 🧰 Stack
+### 🧰 STACK
 
-`React` `JavaScript` `Vite` `CSS Modules`
+<div align="center">
 
-`Node.js` `Express` `MySQL` `REST API`
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mysql&theme=dark"/>
 
-### 🗺️ Quest Status
+<br><br>
 
-`████████████████░░░░` **In Development**
+`JavaScript` · `CSS Modules` · `React Router` · `REST API`
 
-<!-- 🔗 ADICIONE AQUI O LINK DO REPOSITÓRIO DO CAPVEST -->
+</div>
+
+### 🗺️ QUEST STATUS
+
+```text
+████████████████░░░░  IN DEVELOPMENT
+```
+
+<!-- 🔗 ADICIONE O LINK DO REPOSITÓRIO DO CAPVEST -->
+
+`[ CAPVEST REPOSITORY ](SEU_LINK_CAPVEST)`
 
 ---
 
-## 🧠 GABARITANDO
+# 🧠 GABARITANDO
 
-### `Gabaritando — Education + Automation`
+<div align="center">
 
-**Type:** Educational Platform · Academic Project · Automation
+## `GABARITANDO`
+
+### EDUCATION · AUTOMATION · AI
+
+</div>
 
 Projeto acadêmico voltado para professores e estudantes.
 
-A plataforma busca facilitar a criação e aplicação de avaliações, permitindo trabalhar com questões objetivas e dissertativas, critérios de correção e resultados.
+A plataforma busca facilitar a criação e aplicação de avaliações, trabalhando com questões objetivas e dissertativas, critérios de correção e resultados.
 
 Também existe uma proposta de utilização de **IA para auxiliar processos de correção e análise**.
 
-### ⚔️ Concept
+### ⚔️ SYSTEM
 
 ```text
-Professor
-    │
-    ├── Criar avaliação
-    ├── Criar questões
-    ├── Definir critérios
-    │
-    ▼
-Estudante
-    │
-    ├── Realizar avaliação
-    └── Consultar resultado
-            │
-            ▼
-       Análise / Correção
+             ┌─────────────────┐
+             │    PROFESSOR    │
+             └────────┬────────┘
+                      │
+              ┌───────┼────────┐
+              ▼       ▼        ▼
+           QUESTÕES  PROVAS  CRITÉRIOS
+              │       │        │
+              └───────┼────────┘
+                      ▼
+             ┌─────────────────┐
+             │    ESTUDANTE    │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ CORREÇÃO / IA   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    RESULTADO    │
+             └─────────────────┘
 ```
 
-### 🗺️ Quest Status
+### 🗺️ QUEST STATUS
 
-`███████████████░░░░░` **Academic Development**
+```text
+███████████████░░░░░  ACADEMIC DEVELOPMENT
+```
 
-<!-- 🔗 ADICIONE AQUI O LINK DO REPOSITÓRIO -->
+<!-- 🔗 ADICIONE O LINK DO REPOSITÓRIO -->
 
----
-
-## ⚡ GABARITO INSTANTÂNEO
-
-### `Projeto Integrador — Educational Systems`
-
-Outro estágio/proposta relacionada ao desenvolvimento de sistemas educacionais.
-
-O projeto trabalha conceitos como:
-
-* 👨‍🏫 Área do professor
-* 📝 Avaliações
-* ❓ Questões objetivas
-* ✍️ Questões dissertativas
-* 📋 Critérios de correção
-* 📊 Resultados dos estudantes
-
-### 🏫 Context
-
-Projeto desenvolvido no contexto acadêmico do **IFSP**.
-
-### 🗺️ Quest Status
-
-`██████████████░░░░░░` **Academic Project**
-
-<!-- 🔗 ADICIONE AQUI O LINK DO REPOSITÓRIO -->
+`[ GABARITANDO REPOSITORY ](SEU_LINK_GABARITANDO)`
 
 ---
 
 # 🍔 WEFOOD
 
-### `WeFood — Mobile Experience`
+<div align="center">
 
-**Type:** UI/UX · Mobile · Academic Project
+## `WEFOOD`
+
+### MOBILE EXPERIENCE · UI/UX · ACADEMIC PROJECT
+
+</div>
 
 Projeto de interface voltado para uma experiência digital relacionada à alimentação.
 
-O foco esteve principalmente em:
+### 🎨 FOCUS
 
 * 📱 Interface mobile
-* 🎨 Identidade visual
 * 🧭 Navegação
+* 🎨 Identidade visual
 * 🖌️ UI/UX
 * 🧩 Organização das telas
 * 💡 Prototipação
 
-### 🗺️ Quest Status
+### 🗺️ QUEST STATUS
 
-`██████████████████░░` **Prototype / Academic Project**
+```text
+██████████████████░░  PROTOTYPE / ACADEMIC PROJECT
+```
 
-<!-- 🔗 ADICIONE AQUI O LINK DO REPOSITÓRIO -->
+<!-- 🔗 ADICIONE O LINK DO REPOSITÓRIO -->
+
+`[ WEFOOD REPOSITORY ](SEU_LINK_WEFOOD)`
+
+---
+
+<div align="center">
+
+```text
+                .       .       .
+            .       💧       .       .
+        .       .       💧       .       .
+            .       .       .       .
+                CITY OF TEARS
+```
+
+*The rain never stops.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D18,50:21132A,100:07070C&height=110&section=header&text=DEEPNEST&fontSize=28&fontColor=D2C3D8&animation=fadeIn&fontAlignY=55"/>
+
+### 🕷️ AREA DISCOVERED
+
+## D E E P N E S T
+
+*The deeper we go, the stranger the stories become.*
+
+</div>
 
 ---
 
 # ⚙️ VALKENSTADT
 
-### `Valkenstadt — The Steampunk Archives`
+<div align="center">
 
-**Type:** Worldbuilding · Interactive Web · RPG
+## `VALKENSTADT`
+
+### STEAMPUNK · WORLDBUILDING · INTERACTIVE WEB
+
+</div>
 
 Uma experiência narrativa e visual baseada em um universo **steampunk**, construída para transformar lore em uma experiência navegável.
 
-### 📜 Features
+### 📜 ARCHIVES
 
 * 📰 Jornal fictício
 * 🏙️ Distritos
@@ -346,37 +588,50 @@ Uma experiência narrativa e visual baseada em um universo **steampunk**, constr
 * 📚 Lore
 * 🌐 Site interativo
 
-A proposta mistura:
+### 🧩 THE FORMULA
 
 ```text
-Web Development
-       +
-Storytelling
-       +
-Worldbuilding
-       +
-RPG
+              WEB DEVELOPMENT
+                     +
+                STORYTELLING
+                     +
+                WORLDBUILDING
+                     +
+                     RPG
+                     │
+                     ▼
+                VALKENSTADT
 ```
 
-### 🗺️ Quest Status
+### 🗺️ QUEST STATUS
 
-`█████████████████░░░` **Worldbuilding Project**
+```text
+█████████████████░░░  WORLDBUILDING PROJECT
+```
 
-<!-- 🔗 ADICIONE AQUI O LINK DO VALKENSTADT -->
+<!-- 🔗 ADICIONE O LINK DO VALKENSTADT -->
+
+`[ VALKENSTADT ARCHIVES ](SEU_LINK_VALKENSTADT)`
 
 ---
 
 # 🎲 RPG WORLDCRAFT
 
-## `Worldbuilding Arsenal`
+<div align="center">
+
+## `WORLD-BUILDING ARSENAL`
+
+### *Not every world needs to exist physically to be explored.*
+
+</div>
 
 Programação não é minha única forma de construir mundos.
 
-Também desenvolvo campanhas, cenários, sistemas narrativos e experiências para RPG.
+Também crio campanhas, cenários, sistemas narrativos e experiências para RPG.
 
-### 🧙 Projects & Campaigns
+### 🧙 PROJECTS & CAMPAIGNS
 
-| Projeto               | Tipo          | Elementos                          |
+| Project               | Type          | Elements                           |
 | --------------------- | ------------- | ---------------------------------- |
 | 🎭 Ordem Paranormal   | RPG           | Investigação · Horror · Lore       |
 | ⚽ Blue Lock RPG       | RPG           | Estratégia · Futebol · Personagens |
@@ -385,7 +640,7 @@ Também desenvolvo campanhas, cenários, sistemas narrativos e experiências par
 | 🗺️ RPG Utilities     | Tools         | Fichas · Mapas · Sistemas          |
 | 📜 Campaign Archives  | Narrative     | Documentos · Eventos · NPCs        |
 
-### 🧰 Worldbuilding Toolkit
+### 🧰 WORLDBUILDING TOOLKIT
 
 `Lore`
 
@@ -407,13 +662,27 @@ Também desenvolvo campanhas, cenários, sistemas narrativos e experiências par
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060609,35:111119,70:1B1824,100:050507&height=110&section=header&text=ANCIENT%20BASIN&fontSize=27&fontColor=C9C7D2&animation=fadeIn&fontAlignY=55"/>
+
+### ⚫ AREA DISCOVERED
+
+## A N C I E N T   B A S I N
+
+*Where old systems leave their marks.*
+
+</div>
+
+---
+
 # 🌐 NETWORKING QUESTS
 
-## `Computer Networks Lab`
+## `COMPUTER NETWORKS LAB`
 
 Parte da minha formação técnica também envolve infraestrutura e redes.
 
-### 🌐 Areas
+### 🌐 AREAS
 
 * Cisco Packet Tracer
 * Cabeamento
@@ -426,53 +695,61 @@ Parte da minha formação técnica também envolve infraestrutura e redes.
 * Configuração de redes
 * Infraestrutura
 
-### 🧪 Academic Experiments
+### 🧪 ACADEMIC EXPERIMENTS
 
 Projetos e atividades de laboratório utilizados para compreender o funcionamento de redes e serviços de infraestrutura.
 
 ```text
-[ PC ]
-  │
-  ▼
-[ Switch ]
-  │
-  ├──── [ DHCP ]
-  ├──── [ DNS ]
-  ├──── [ HTTP ]
-  └──── [ E-MAIL ]
+                         NETWORK LAB
+
+                           [ INTERNET ]
+                                │
+                                ▼
+                           [ ROUTER ]
+                                │
+                                ▼
+                           [ SWITCH ]
+                    ┌───────────┼───────────┐
+                    │           │           │
+                    ▼           ▼           ▼
+                  [ PC ]      [ DNS ]     [ DHCP ]
+                    │
+                    ├──────────► [ HTTP ]
+                    │
+                    └──────────► [ E-MAIL ]
 ```
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+# 🏆 ACHIEVEMENTS
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-### ⚔️
+## ⚔️
 
-**CODE SORCERER**
+### CODE SORCERER
 
 Building software and learning new technologies.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 🎓
+## 🎓
 
-**TECH STUDENT**
+### TECH STUDENT
 
 Técnico em Informática — IFSP.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 🎲
+## 🎲
 
-**GAME MASTER**
+### GAME MASTER
 
 Creating campaigns and experiences.
 
@@ -482,9 +759,9 @@ Creating campaigns and experiences.
 <tr>
 <td align="center">
 
-### 🗺️
+## 🗺️
 
-**WORLD BUILDER**
+### WORLD BUILDER
 
 Creating worlds, lore and universes.
 
@@ -492,9 +769,9 @@ Creating worlds, lore and universes.
 
 <td align="center">
 
-### 🧪
+## 🧪
 
-**EXPERIMENTAL**
+### EXPERIMENTAL
 
 Always testing new ideas.
 
@@ -502,15 +779,29 @@ Always testing new ideas.
 
 <td align="center">
 
-### 🧠
+## 🧠
 
-**LIFELONG LEARNER**
+### LIFELONG LEARNER
 
 The skill tree never ends.
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030305,50:0B0B12,100:020203&height=120&section=header&text=THE%20VOID&fontSize=31&fontColor=E8E8F0&animation=fadeIn&fontAlignY=55"/>
+
+### 🌑 AREA DISCOVERED
+
+## T H E   V O I D
+
+*No light. No noise. Just the code.*
+
+</div>
 
 ---
 
@@ -528,7 +819,7 @@ The skill tree never ends.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PatoDeGodAkira&theme=dracula&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=PatoDeGodAkira&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -547,35 +838,52 @@ The skill tree never ends.
 # 🗺️ ADVENTURE LOG
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                    ADVENTURE LOG                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  🏫 IFSP                                             ║
-║      │                                               ║
-║      ▼                                               ║
-║  💻 Técnico em Informática                           ║
-║      │                                               ║
-║      ▼                                               ║
-║  🌐 Desenvolvimento Web                              ║
-║      │                                               ║
-║      ▼                                               ║
-║  🧪 Projetos Acadêmicos                              ║
-║      │                                               ║
-║      ├──── 🎓 CapVest                                ║
-║      │                                               ║
-║      ├──── 🧠 Gabaritando                            ║
-║      │                                               ║
-║      ├──── 🍔 WeFood                                 ║
-║      │                                               ║
-║      ├──── ⚙️ Valkenstadt                            ║
-║      │                                               ║
-║      └──── 🎲 RPG & Worldbuilding                    ║
-║                                                      ║
-║      ▼                                               ║
-║  ⚔️ NEXT QUEST                                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                    ADVENTURE LOG                         ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  🏚️  DIRTMOUTH                                          ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  🏫  IFSP                                                ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  💻  TÉCNICO EM INFORMÁTICA                              ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  🌿  GREENPATH                                           ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  🌐  DESENVOLVIMENTO WEB                                 ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  💧  CITY OF TEARS                                       ║
+║       │                                                  ║
+║       ├──── 🎓 CAPVEST                                   ║
+║       │                                                  ║
+║       ├──── 🧠 GABARITANDO                               ║
+║       │                                                  ║
+║       └──── 🍔 WEFOOD                                    ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  🕷️  DEEPNEST                                            ║
+║       │                                                  ║
+║       ├──── ⚙️ VALKENSTADT                               ║
+║       │                                                  ║
+║       └──── 🎲 RPG & WORLDBUILDING                       ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  ⚫  ANCIENT BASIN                                        ║
+║       │                                                  ║
+║       └──── 🌐 NETWORKING                                ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  🌑  THE VOID                                            ║
+║       │                                                  ║
+║       ▼                                                  ║
+║  ⚔️  NEXT QUEST                                          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -584,24 +892,28 @@ The skill tree never ends.
 
 ## 🟢 ACTIVE QUESTS
 
-* [ ] 🎓 Preparação para a Unicamp
-* [ ] 💻 Evoluir como Full Stack Developer
-* [ ] ⚛️ Aprofundar conhecimentos em React
-* [ ] 🧪 Evoluir projetos com Node.js
-* [ ] 🗄️ Aprimorar conhecimentos em bancos de dados
-* [ ] 🤖 Explorar aplicações de IA
-* [ ] 🎲 Criar novos projetos de RPG
-* [ ] 🗺️ Expandir universos e campanhas
-* [ ] 🎨 Melhorar constantemente UI/UX
+```text
+[ ] 🎓 Preparação para a Unicamp
+[ ] 💻 Evoluir como Full Stack Developer
+[ ] ⚛️ Aprofundar conhecimentos em React
+[ ] 🧪 Evoluir projetos com Node.js
+[ ] 🗄️ Aprimorar conhecimentos em bancos de dados
+[ ] 🤖 Explorar aplicações de IA
+[ ] 🎲 Criar novos projetos de RPG
+[ ] 🗺️ Expandir universos e campanhas
+[ ] 🎨 Melhorar constantemente UI/UX
+```
 
 ## 🔵 FUTURE QUESTS
 
-* [ ] 🚀 Projetos Full Stack maiores
-* [ ] 🤖 Sistemas utilizando IA
-* [ ] 🌐 Projetos Open Source
-* [ ] 🎲 Ferramentas para RPG
-* [ ] 📚 Novas plataformas educacionais
-* [ ] 🧙 Novos universos e experiências interativas
+```text
+[ ] 🚀 Projetos Full Stack maiores
+[ ] 🤖 Sistemas utilizando IA
+[ ] 🌐 Projetos Open Source
+[ ] 🎲 Ferramentas para RPG
+[ ] 📚 Novas plataformas educacionais
+[ ] 🧙 Novos universos e experiências interativas
+```
 
 ---
 
@@ -609,13 +921,32 @@ The skill tree never ends.
 
 <div align="center">
 
-### I don't just build software.
-
-### I build systems, experiences and worlds.
+```text
+              I DON'T JUST BUILD SOFTWARE.
+              
+          I BUILD SYSTEMS, EXPERIENCES
+                    AND WORLDS.
+```
 
 <br>
 
-`CODE` · `CREATE` · `EXPERIMENT` · `LEARN` · `BUILD`
+`CODE`   ◆   `CREATE`   ◆   `EXPERIMENT`   ◆   `LEARN`   ◆   `BUILD`
+
+</div>
+
+---
+
+<div align="center">
+
+### ─────────────── ❖ ───────────────
+
+# 🏮 THE LAST BENCH
+
+### The journey doesn't end here.
+
+*There is always another area to explore.*
+
+### ─────────────── ❖ ───────────────
 
 </div>
 
@@ -629,7 +960,7 @@ The skill tree never ends.
 <img src="https://img.shields.io/badge/GitHub-PatoDeGodAkira-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- 🔗 SUBSTITUA PELO SEU LINK DO LINKEDIN -->
+<!-- 🔗 SUBSTITUA PELO SEU LINKEDIN -->
 
 <a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -659,18 +990,19 @@ The skill tree never ends.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1d4f,50:17112b,100:0d1117&height=120&section=footer"/>
-
-### ⚔️ Every project is another quest.
-
-### 🧙 Every bug is another boss.
-
-### 🗺️ Every idea is another world waiting to be built.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,30:0B0B12,60:161321,100:322442&height=180&section=footer&text=ELIAS%20MANOEL%20DOS%20SANTOS&fontSize=25&fontColor=DCD9E8&animation=fadeIn&fontAlignY=65"/>
 
 <br>
 
-**Elias Manoel dos Santos**
+### ⚔️ Every project is another quest.
+
+### 🕯️ Every bug is another boss.
+
+### 🌑 Every idea is another world waiting to be built.
+
+<br>
 
 `PatoDeGodAkira`
 
 </div>
+
