@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:17112b,100:3b1d4f&height=220&section=header&text=Elias%20Manoel%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20Sorcerer%20%7C%20Full%20Stack%20Adventurer%20%7C%20Game%20Master&descAlignY=60&descSize=16" width="100%"/>
 
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;Code+Sorcerer;Game+Master+%26+Worldbuilder;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+IFSP;Building+systems%2C+projects+and+worlds..." alt="Typing SVG"/>
 
 <br><br>
